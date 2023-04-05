@@ -1,0 +1,2 @@
+Submitting Information to Email
+language might be used such as “mail()” function in PHP. One more client-side function that might be used for this purpose is the “mailto:” function. 
