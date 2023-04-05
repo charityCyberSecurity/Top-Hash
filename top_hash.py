@@ -32,7 +32,7 @@ if (len(hashValue)==1):
     print("Top Hash is:") 
     print(hashValue)
     with open("check.aap", "a") as a:
-        a.write("yess")
+        a.write(hashValue)
     print("The Top Hash has been saved in check.aap") 
         
     
